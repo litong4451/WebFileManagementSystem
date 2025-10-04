@@ -122,7 +122,7 @@ npm run dev
 
 4. **访问系统**
 
-打开浏览器，访问 `[http://WebFileManagementSystem/](http://localhost:3000)`
+打开浏览器，访问 `http://localhost:3000`
 
 ## 默认账户
 
